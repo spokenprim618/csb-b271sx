@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://spokenprim618.github.io/csb-b271sx/static/css/main.39df0eb8.css",
+    "main.js": "https://spokenprim618.github.io/csb-b271sx/static/js/main.08717042.js",
+    "index.html": "https://spokenprim618.github.io/csb-b271sx/index.html",
+    "main.39df0eb8.css.map": "https://spokenprim618.github.io/csb-b271sx/static/css/main.39df0eb8.css.map",
+    "main.08717042.js.map": "https://spokenprim618.github.io/csb-b271sx/static/js/main.08717042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39df0eb8.css",
+    "static/js/main.08717042.js"
+  ]
+}
